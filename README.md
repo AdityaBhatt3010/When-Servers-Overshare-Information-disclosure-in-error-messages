@@ -1,6 +1,6 @@
 # 🧠 When Servers Overshare: Sniping Apache Struts with a Simple String Injection
 
-**Author: Aditya Bhatt**
+**Author: Aditya Bhatt** <br/>
 **Category: Web App Hacking | Recon | Info Disclosure | CVE Enumeration**
 
 ---
