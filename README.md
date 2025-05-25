@@ -60,7 +60,7 @@ In the stack trace, we spot the vulnerable tech:
 
 ---
 
-## 🤖 Automation Script: Lab Destroyer 9000™
+## 🤖 Automation Script: Lab Destroyer 9000
 
 Here’s your script to *automate the whole lab*. Just plug in the **lab URL**, and it’ll throw a string payload, catch the error, extract the version, and print it like a true recon master.
 
