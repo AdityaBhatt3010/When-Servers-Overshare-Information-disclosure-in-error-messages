@@ -1,4 +1,4 @@
-![ChatGPT Image May 26, 2025, 12_30_10 AM](https://github.com/user-attachments/assets/e1fd9956-dd41-4116-a370-652efc30779f)# 🧠 When Servers Overshare: Sniping Apache Struts with a Simple String Injection
+# 🧠 When Servers Overshare: Sniping Apache Struts with a Simple String Injection
 
 **Author: Aditya Bhatt**
 **Category: Web App Hacking | Recon | Info Disclosure | CVE Enumeration**
